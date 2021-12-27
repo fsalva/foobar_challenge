@@ -1,3 +1,5 @@
+package foobar.bomb_baby;
+
 import java.math.BigInteger;
 
 public class Solution {
